@@ -1,0 +1,5 @@
+name: Rows
+type: module
+description: Plugin para introduccion filas automaticas.
+core_version_requirement: ^9
+package: Custom
